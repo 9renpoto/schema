@@ -13,7 +13,7 @@
     "graphql-scalars": "^1.2.6",
     "graphql-tools": "^4.0.7",
     "knex": "^0.19.5",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mysql": "^2.16.0",
     "nexus": "^1.0.0"
   },
